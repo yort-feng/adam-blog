@@ -1,37 +1,39 @@
-title: My personal blog - Yort Feng
+title: My personal blog - Yort
 email: yort.feng@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/post" # the subpath of your site, e.g. /blog
+url: "https://yorthub.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Yort Feng # add your name
-author-pic: adam-face.jpg
-about-author: My name is Yort Feng. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Yort # add your name
+author-pic: yort-face.jpg
+about-author: My name is Yort. I'm a half-stack programmer and have been doing it as a job for nearly 7 years, I wrote java codes in the first 5 years of my career, after that I more some script languages, like Nodejs, typescript, react, etc...
+Anyway, I’m trying to write some notes of learning English and Programing, hope you like it.
 
 # Contact links
 email: yort.feng@gmail.com # Add your Email address
-phone: # Add your Phone number
+phone: 18974838697
 # website: # Add your website, do not add http://
 # linkedin: # Add your Linkedin handle
+stackoverflow: https://stackoverflow.com/users/3762105/troy
 github: yort-feng # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+instagram: yort.feng
+twitter: '@yort_feng' # Add your Twitter handle
+# facebook: # Add your Facebook handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+# mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+# discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+# analytics: # Google Analytics
 
 # Paginate
 paginate: 6
