@@ -11,8 +11,7 @@ url: "https://yorthub.com" # the base hostname & protocol for your site, e.g. ht
 # Author settings
 author: Yort # add your name
 author-pic: yort-face.jpg
-about-author: My name is Yort. I'm a half-stack programmer and have been doing it as a job for nearly 7 years, I wrote java codes in the first 5 years of my career, after that I more some script languages, like Nodejs, typescript, react, etc...
-Anyway, I’m trying to write some notes of learning English and Programing, hope you like it.
+about-author: My name is Yort. I'm a half-stack programmer and have been doing it as a job for nearly 7 years, I wrote java codes in the first 5 years of my career, after that I more some script languages, like Nodejs, typescript, react, etc... Anyway, I’m trying to write some notes of learning English and Programing, hope you like it.
 
 # Contact links
 email: yort.feng@gmail.com # Add your Email address
